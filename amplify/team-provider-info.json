@@ -10,6 +10,11 @@
       "StackName": "amplify-reactampokta-dev-83553",
       "StackId": "arn:aws:cloudformation:us-east-1:480859067311:stack/amplify-reactampokta-dev-83553/a291c4d0-5136-11ee-8cd0-1220eb9c18df",
       "AmplifyAppId": "d2lc6nxq120tfd"
+    },
+    "categories": {
+      "auth": {
+        "reactampokta96c3e297": {}
+      }
     }
   }
 }
